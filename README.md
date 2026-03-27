@@ -85,7 +85,7 @@ plt.show()
 ### Canny Edge detector output
 
 
-<img width="971" height="721" alt="image" src="https://github.com/user-attachments/assets/95d45a15-787f-47c5-83c8-fcf092dfd997" />
+<img width="228" height="378" alt="image" src="https://github.com/user-attachments/assets/b1632228-b298-4142-a6f1-e39f6a06b97f" />
 
 
 ### Display the result of Hough transform
